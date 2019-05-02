@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fricreact-gh-pages/precache-manifest.b2cd802637665d6e3863d3c520d14b9c.js"
+  "/fricreact-gh-pages/precache-manifest.82794667f4c09ba2470d3e95b15fdfe3.js"
 );
 
 self.addEventListener('message', (event) => {
