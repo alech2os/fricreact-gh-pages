@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fricreact-gh-pages/static/css/main.584f321a.chunk.css",
+    "main.js": "/fricreact-gh-pages/static/js/main.77ada4e4.chunk.js",
+    "main.js.map": "/fricreact-gh-pages/static/js/main.77ada4e4.chunk.js.map",
+    "runtime~main.js": "/fricreact-gh-pages/static/js/runtime~main.f9b02d7e.js",
+    "runtime~main.js.map": "/fricreact-gh-pages/static/js/runtime~main.f9b02d7e.js.map",
+    "static/js/2.b41502e9.chunk.js": "/fricreact-gh-pages/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/fricreact-gh-pages/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/fricreact-gh-pages/index.html",
+    "precache-manifest.b2cd802637665d6e3863d3c520d14b9c.js": "/fricreact-gh-pages/precache-manifest.b2cd802637665d6e3863d3c520d14b9c.js",
+    "service-worker.js": "/fricreact-gh-pages/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/fricreact-gh-pages/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/fricreact-gh-pages/static/media/logo.5d5d9eef.svg"
+  }
+}
